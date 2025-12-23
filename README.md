@@ -30,7 +30,7 @@ const uzair = {
 };
 ```
 
-> 💡 **Fun Fact:** Started coding at 13, now building production apps used by real users!
+> 💡 **Fun Fact:** Started coding at 9, now building production apps used by real users!
 
 ---
 
@@ -141,23 +141,12 @@ class UzairMughal:
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzairdeveloper223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=uzairdeveloper223&theme=tokyonight&hide_border=true&background=1a1b27&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairdeveloper223&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0891b2&text_color=c9d1d9)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=uzairdeveloper223&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -209,14 +198,8 @@ If you like what I do, consider buying me a coffee! ☕
 ---
 
 <div align="center">
-  
-### 👨‍💻 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/uzairdeveloper223/count.svg)
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
-
-</div>
 
 ---
 
