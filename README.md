@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm Uzair Mughal
+# Hey there! I'm Uzair Mughal
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Blockchain+Enthusiast+%E2%9B%93;Penetration+Tester+%F0%9F%94%90;Web+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;15+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
 
@@ -17,40 +17,40 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const uzair = {
-    location: "AJK 🏔️",
+    location: "AJK",
     age: 15,
     passion: "Building innovative solutions & breaking (ethical) things",
-    currentFocus: "FirAI Platform & Mastering Rust 🦀",
+    currentFocus: "FirAI Platform & Mastering Rust",
     philosophy: "Code with purpose, secure by design",
-    vibe: "PURE LINUX NERD 🐧"
+    vibe: "PURE LINUX NERD"
 };
 ```
 
-> 💡 **Fun Fact:** Started coding at 9, now building production apps used by real users!
+> **Fun Fact:** Started coding at 9, now building production apps used by real users!
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[FirAI](http://fire-ai-platform.vercel.app)** 🤖 | AI-powered platform revolutionizing interactions | Next.js, AI/ML | 🚧 In Progress |
-| **[ChatX](https://chatx-oricin.vercel.app)** 💬 | Next-gen ID-based chat with privacy controls | Next.js, Firebase, Vercel | ✅ Live |
-| **[FireGram](https://firegram-social-app.vercel.app)** 🔥 | Social platform with verified tiers & business profiles | Next.js, Firebase, Cloudinary | ✅ Live |
-| **[Mystery Mart](https://mystery-mart-app.vercel.app)** 🛒 | E-commerce with crypto payments & seller approval | Next.js, Firebase, Blockchain | ✅ Live |
-| **[UZT Todo](http://uzt-todo.rf.gd)** ✅ | Task platform rewarding users with UZT tokens (Sepolia ETH) | Web3, Smart Contracts | ✅ Live |
+| **[FirAI](http://fire-ai-platform.vercel.app)**| AI-powered platform revolutionizing interactions | Next.js, AI/ML | In Progress |
+| **[ChatX](https://chatx-oricin.vercel.app)** | Next-gen ID-based chat with privacy controls | Next.js, Firebase, Vercel | Live |
+| **[FireGram](https://firegram-social-app.vercel.app)** | Social platform with verified tiers & business profiles | Next.js, Firebase, Cloudinary | Live |
+| **[Mystery Mart](https://mystery-mart-app.vercel.app)**| E-commerce with crypto payments & seller approval | Next.js, Firebase, Blockchain | Live |
+| **[UZT Todo](http://uzt-todo.rf.gd)**| Task platform rewarding users with UZT tokens (Sepolia ETH) | Web3, Smart Contracts | Live |
 
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -107,18 +107,18 @@ const uzair = {
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 ```python
 class UzairMughal:
     def __init__(self):
         self.roles = [
-            "🌐 Full-Stack Developer",
-            "📱 Android App Developer (Jetpack Compose)",
-            "🐧 Linux Application Developer (GTK)",
-            "🔒 Penetration Tester & Security Researcher",
-            "⛓️ Blockchain Developer",
-            "🤖 AI/ML Enthusiast"
+            "Full-Stack Developer",
+            "Android App Developer (Jetpack Compose)",
+            "Linux Application Developer (GTK)",
+            "Penetration Tester & Security Researcher",
+            "Blockchain Developer",
+            "AI/ML Enthusiast"
         ]
         
     def current_mission(self):
@@ -135,7 +135,7 @@ class UzairMughal:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -146,7 +146,7 @@ class UzairMughal:
 ---
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -156,7 +156,7 @@ class UzairMughal:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -173,7 +173,7 @@ class UzairMughal:
 
 ---
 
-## 💖 Support My Work
+## Support My Work
 
 <div align="center">
 
@@ -187,7 +187,7 @@ If you like what I do, consider buying me a coffee! ☕
 
 <div align="center">
 
-### 💭 Quote of the Day
+### Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -197,7 +197,7 @@ If you like what I do, consider buying me a coffee! ☕
 
 <div align="center">
 
-**Thanks for stopping by! Let's build something amazing together! 🚀**
+**Thanks for stopping by! Let's build something amazing together!**
 
 ---
 
