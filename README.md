@@ -2,7 +2,7 @@
   
 # Hey there! I'm Uzair Mughal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Blockchain+Enthusiast+%E2%9B%93;Penetration+Tester+%F0%9F%94%90;Web+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;15+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;Penetration+Tester;Web+Security+Engineer;15+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
 
 </div>
 
