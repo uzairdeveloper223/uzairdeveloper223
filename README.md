@@ -24,7 +24,7 @@ const uzair = {
     location: "AJK",
     age: 15,
     passion: "Building innovative solutions & breaking (ethical) things",
-    currentFocus: "FirAI Platform & Mastering Rust",
+    currentFocus: "FireAI Platform & Mastering Rust",
     philosophy: "Code with purpose, secure by design",
     vibe: "PURE LINUX NERD"
 };
@@ -40,7 +40,7 @@ const uzair = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[FirAI](http://fire-ai-platform.vercel.app)**| AI-powered platform revolutionizing interactions | Next.js, AI/ML | In Progress |
+| **[FireAI](http://fire-ai-platform.vercel.app)**| AI-powered platform revolutionizing interactions | Next.js, AI/ML | In Progress |
 | **[ChatX](https://chatx-oricin.vercel.app)** | Next-gen ID-based chat with privacy controls | Next.js, Firebase, Vercel | Live |
 | **[FireGram](https://firegram-social-app.vercel.app)** | Social platform with verified tiers & business profiles | Next.js, Firebase, Cloudinary | Live |
 | **[Mystery Mart](https://mystery-mart-app.vercel.app)**| E-commerce with crypto payments & seller approval | Next.js, Firebase, Blockchain | Live |
