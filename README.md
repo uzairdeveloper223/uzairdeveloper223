@@ -2,7 +2,7 @@
   
 # Hey there! I'm Uzair Mughal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;Penetration+Tester;Web+Security+Engineer;15+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;Penetration+Tester;Web+Security+Engineer;16+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 ```typescript
 const uzair = {
     location: "AJK",
-    age: 15,
+    age: 16,
     passion: "Building innovative solutions & breaking (ethical) things",
     currentFocus: "FireAI Platform & Mastering Rust",
     philosophy: "Code with purpose, secure by design",
