@@ -177,7 +177,7 @@ class UzairMughal:
 <div align="center">
 If you like what I do, consider supporting my work with crypto!
 <br><br>
-<a href="https://uzairdeveloper223.github.io/donate">
+<a href="https://uzairdeveloper223.github.io/donate/?page=donate">
   <img src="https://img.shields.io/badge/Donate-Crypto-BB86FC?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate Crypto">
 </a>
 </div>
