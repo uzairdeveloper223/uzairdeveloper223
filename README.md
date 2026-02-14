@@ -174,13 +174,12 @@ class UzairMughal:
 ---
 
 ## Support My Work
-
 <div align="center">
-
-If you like what I do, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/uzairxdev2w)
-
+If you like what I do, consider supporting my work with crypto!
+<br><br>
+<a href="https://uzairdeveloper223.github.io/donate">
+  <img src="https://img.shields.io/badge/Donate-Crypto-BB86FC?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate Crypto">
+</a>
 </div>
 
 ---
