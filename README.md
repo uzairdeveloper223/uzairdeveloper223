@@ -40,8 +40,8 @@ const uzair = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[FireAI](http://fire-ai-platform.vercel.app)**| AI-powered platform revolutionizing interactions | Next.js, AI/ML | In Progress |
-| **[ChatX](https://chatx-oricin.vercel.app)** | Next-gen ID-based chat with privacy controls | Next.js, Firebase, Vercel | Live |
+| **FireAI**| AI-powered platform revolutionizing interactions | Next.js, AI/ML | In Progress |
+| **[ChatX](https://chatx-oricin.vercel.app)** | Next-gen ID-based chat with privacy controls | Next.js, base, Vercel | Live |
 | **[FireGram](https://firegram-social-app.vercel.app)** | Social platform with verified tiers & business profiles | Next.js, Firebase, Cloudinary | Live |
 | **[Mystery Mart](https://mystery-mart-app.vercel.app)**| E-commerce with crypto payments & seller approval | Next.js, Firebase, Blockchain | Live |
 | **[UZT Todo](http://uzt-todo.rf.gd)**| Task platform rewarding users with UZT tokens (Sepolia ETH) | Web3, Smart Contracts | Live |
