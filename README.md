@@ -167,7 +167,7 @@ class UzairMughal:
 [![Discord](https://img.shields.io/badge/Discord-mughal__x22-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mughal_x22)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24131644-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24131644)
 [![Facebook](https://img.shields.io/badge/Facebook-mughal.x22-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/mughal.x22)
-[![Threads](https://img.shields.io/badge/Threads-@mughal__x22-000000?style=for-the-badge&logo=threads)](https://threads.net/@mughal_x22)
+[![Threads](https://img.shields.io/badge/Telegram-@mughal__x22-000000?style=for-the-badge&logo=telegram)](https://t.me/mughal_x22)
 
 </div>
 
