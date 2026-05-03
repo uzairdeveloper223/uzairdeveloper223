@@ -1,205 +1,158 @@
-<div align="center">
-  
-# Hey there! I'm Uzair Mughal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A0A0A&height=220&section=header&text=UZAIR%20MUGHAL&fontSize=72&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&fontFamily=Bebas+Neue&desc=Linux+Kernel+Contributor+%C2%B7+Security+%C2%B7+Full-Stack&descSize=13&descAlignY=64&descColor=888888" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=28&duration=3000&pause=1000&color=888888&center=true&vCenter=true&repeat=true&width=600&lines=Linux+Kernel+Contributer;Full-Stack+Developer;Blockchain+Enthusiast;Penetration+Tester;Web+Security+Engineer;16+y%2Fo+Linux+Nerd+%F0%9F%90%A7;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&repeat=true&width=560&height=30&lines=System+Architecture;Low-Level+Development;Penetration+Tester;Web+Security+Researcher;Zero-Day+Enthusiast" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/uzair.is--a.dev-000000?style=flat-square&logo=googlechrome&logoColor=AAAAAA)](https://uzair.is-a.dev)
+[![Email](https://img.shields.io/badge/contact%40uzair.is--a.dev-000000?style=flat-square&logo=gmail&logoColor=AAAAAA)](mailto:contact@uzair.is-a.dev)
+[![GitHub](https://img.shields.io/github/followers/uzairdeveloper223?label=github&style=flat-square&logo=github&color=000000&labelColor=000000&logoColor=AAAAAA)](https://github.com/uzairdeveloper223)
+[![Twitter](https://img.shields.io/badge/@mughal__x22-000000?style=flat-square&logo=x&logoColor=AAAAAA)](https://twitter.com/mughal_x22)
 
 </div>
 
+<br>
+
+---
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+<pre>
+[SYSTEM_INIT]
+
+LOCATION  ·· AJK, Pakistan
+KERNEL    ·· Linux Kernel Contributor
+STACK     ·· Next.js · Android · Rust
+MISSION   ·· Secure by design. Open by default.
+FOCUS     ·· Low-level Systems, Web3, Pentesting
+VIBE      ·· PURE LINUX NERD
+</pre>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+<pre>
+[CURRENT_PROCESSES]
+
+> Analyzing kernel syscalls
+> Reverse engineering architectures
+> Developing high-perf Next.js apps
+> Hunting for vulnerabilities
+> Compiling AOSP / Waydroid
+
+[STATUS: ONLINE]
+</pre>
+  </tr>
+</table>
+
+---
+
+### // ARSENAL & TOOLCHAIN
+
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-uzair.is--a.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://uzair.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-contact%40uzair.is--a.dev-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uzair.is-a.dev)
-[![GitHub](https://img.shields.io/github/followers/uzairdeveloper223?label=Follow&style=for-the-badge&logo=github&color=000000)](https://github.com/uzairdeveloper223)
-[![Twitter](https://img.shields.io/twitter/follow/mughal_x22?style=for-the-badge&logo=x&color=000000)](https://twitter.com/mughal_x22)
-
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,rust,c,cpp,java,kotlin,python,js,ts,php" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,fastapi,flask,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,neovim,git,github,docker,vercel,cloudflare" />
 </div>
 
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>OS & LOW-LEVEL</b><br>
+      Linux Kernel<br>
+      C / C++ / Rust<br>
+      Bash / Shell Scripting<br>
+      Waydroid / LimeOS
+    </td>
+    <td width="33%" valign="top">
+      <b>FULL-STACK / WEB3</b><br>
+      Next.js / React<br>
+      Node.js / Express<br>
+      Ethereum / Solidity<br>
+      Smart Contracts
+    </td>
+    <td width="33%" valign="top">
+      <b>SECURITY & MOBILE</b><br>
+      Web Pentesting / OSINT<br>
+      Network Analysis<br>
+      Android Native (Compose)<br>
+      Kotlin / Java
+    </td>
+  </tr>
+</table>
+
 ---
 
-## About Me
+### // EXECUTABLES (SELECTED WORKS)
 
-```typescript
-const uzair = {
-    location: "AJK",
-    age: 16,
-    passion: "Building innovative solutions & breaking (ethical) things",
-    currentFocus: "FireAI Platform & Mastering Rust",
-    philosophy: "Code with purpose, secure by design",
-    vibe: "PURE LINUX NERD"
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://chatx-oricin.vercel.app">ChatX</a></b><br>
+      <i>ID-based chat · privacy controls · verified status</i><br>
+      <code>Next.js</code> <code>Firebase</code> <code>Vercel</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://firegram-social-app.vercel.app">FireGram</a></b><br>
+      <i>Social platform · business profiles · verified tiers</i><br>
+      <code>Next.js</code> <code>Firebase</code> <code>Cloudinary</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://mystery-mart-app.vercel.app">Mystery Mart</a></b><br>
+      <i>E-commerce · crypto payments · seller approval</i><br>
+      <code>Next.js</code> <code>Firebase</code> <code>Blockchain</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="http://uzt-todo.rf.gd">UZT Todo</a></b><br>
+      <i>Task platform · rewards users with UZT (Sepolia ETH)</i><br>
+      <code>Web3</code> <code>Smart Contracts</code> <code>ERC-20</code>
+    </td>
+  </tr>
+</table>
 
-> **Fun Fact:** Started coding at 9, now building production apps used by real users!
+> *"A system is only as secure as its most complex abstraction. I build at the lowest level to understand the top."*
 
 ---
 
-## Featured Projects
+### // TELEMETRY & SIGNAL
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **FireAI**| AI-powered platform revolutionizing interactions | Next.js, AI/ML | In Progress |
-| **[ChatX](https://chatx-oricin.vercel.app)** | Next-gen ID-based chat with privacy controls | Next.js, base, Vercel | Live |
-| **[FireGram](https://firegram-social-app.vercel.app)** | Social platform with verified tiers & business profiles | Next.js, Firebase, Cloudinary | Live |
-| **[Mystery Mart](https://mystery-mart-app.vercel.app)**| E-commerce with crypto payments & seller approval | Next.js, Firebase, Blockchain | Live |
-| **[UZT Todo](http://uzt-todo.rf.gd)**| Task platform rewarding users with UZT tokens (Sepolia ETH) | Web3, Smart Contracts | Live |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=uzairdeveloper223&layout=compact&hide_border=true&bg_color=000000&title_color=888888&text_color=888888&icon_color=888888&langs_count=6&count_private=true" alt="Top Languages">
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=uzairdeveloper223&hide_border=true&background=000000&stroke=111111&ring=444444&fire=888888&currStreakNum=888888&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=888888" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 
-</div>
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000000.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-111111.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-111111.svg?style=for-the-badge&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-1A1A1A.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1A1A1A.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1A1A1A.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1A1A1A?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-222222?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-050505?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-050505?style=for-the-badge&logo=web3.js&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-050505?style=for-the-badge&logo=metamask&logoColor=white)
-
-### DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A0A0A.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-0A0A0A.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-000000?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## What I Do
-
-```python
-class UzairMughal:
-    def __init__(self):
-        self.roles = [
-            "Full-Stack Developer",
-            "Android App Developer (Jetpack Compose)",
-            "Linux Application Developer (GTK)",
-            "Penetration Tester & Security Researcher",
-            "Blockchain Developer",
-            "AI/ML Enthusiast"
-        ]
-        
-    def current_mission(self):
-        return "Building secure, scalable applications while exploring Web3 & AI"
-    
-    def available_for(self):
-        return [
-            "Full-stack collaborations",
-            "Security audits & penetration testing",
-            "Blockchain integrations",
-            "Open-source contributions"
-        ]
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairdeveloper223&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairdeveloper223&hide_border=true&bg_color=000000&color=888888&line=888888&point=888888&area=true&area_color=111111" alt="Activity Graph">
 
 </div>
 
 ---
 
-
-## Contribution Graph
+### // ESTABLISH CONNECTION
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uzairdeveloper223&hide_border=true&bg_color=000000&color=ffffff&line=555555&point=ffffff)](https://github.com/uzairdeveloper223)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=888888)](https://github.com/uzairdeveloper223)&nbsp;
+[![GitLab](https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=gitlab&logoColor=888888)](https://gitlab.com/uzairdeveloper223)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=888888)](https://t.me/mughal_x22)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=888888)](https://youtube.com/@mughal_x22)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=888888)](https://discord.com/users/mughal_x22)&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=flat-square&logo=stackoverflow&logoColor=888888)](https://stackoverflow.com/users/24131644)
+
+<br>
+
+[![Donate via Crypto](https://img.shields.io/badge/Donate%20via%20Crypto-000000?style=flat-square&logo=bitcoin&logoColor=888888)](https://donate.uzairmughal.dev/)
 
 </div>
 
----
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-uzairdeveloper223-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairdeveloper223)
-[![GitLab](https://img.shields.io/badge/GitLab-uzairdeveloper223-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/uzairdeveloper223)
-[![Twitter](https://img.shields.io/badge/Twitter-@mughal__x22-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mughal_x22)
-[![YouTube](https://img.shields.io/badge/YouTube-@mughal__x22-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mughal_x22)
-[![Discord](https://img.shields.io/badge/Discord-mughal__x22-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mughal_x22)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24131644-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24131644)
-[![Facebook](https://img.shields.io/badge/Facebook-mughal.x22-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mughal.x22)
-[![Threads](https://img.shields.io/badge/Telegram-@mughal__x22-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mughal_x22)
-
-</div>
-
----
-
-## Support My Work
-<div align="center">
-If you like what I do, consider supporting my work with crypto!
-<br><br>
-<a href="https://donate.uzairmughal.dev/">
-  <img src="https://img.shields.io/badge/Donate-Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate Crypto">
-</a>
-</div>
-
----
-
-<div align="center">
-
-### Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for stopping by! Let's build something amazing together!**
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:000000&height=100&section=footer" width="100%"/>
